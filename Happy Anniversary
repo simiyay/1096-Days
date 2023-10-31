@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Anniversary, Babe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="rose-container">
+            <img src="rose.gif" alt="Blooming Rose">
+        </div>
+        <div class="message">
+            <h1>Happy Anniversary, Babe</h1>
+        </div>
+    </div>
+</body>
+</html>
